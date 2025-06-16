@@ -1,0 +1,6 @@
+html, body { 
+    margin: 0; 
+    height: 100%; 
+    background-image: url(imagenes/Viego_0.jpg);
+    background-size: cover;
+}
