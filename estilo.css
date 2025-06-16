@@ -4,3 +4,29 @@ html, body {
     background-image: url(imagenes/Viego_0.jpg);
     background-size: cover;
 }
+
+.SombreadoGeneral{
+    max-width: 50%;
+    box-shadow: rgba(0, 0, 0, 0.767);
+    background: linear-gradient(to right, rgb(black/ 80%), rgb(black/ 30%));
+    background-size: 50%;
+    
+}
+.ProfileName{
+    font-size: 5rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+    color: aliceblue;
+}
+
+.Alias{
+    font-size: 4rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: aliceblue;
+}
+
+.Historia{
+    font-size: 2rem;
+    color: aliceblue;
+
+}
